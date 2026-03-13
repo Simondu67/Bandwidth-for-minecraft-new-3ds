@@ -4,7 +4,7 @@ How too install:
 
 Make sure your console is modified and that you own a copy of "Minecraft: New Nintendo 3DS edition";
 
-Place the file [steve.3dst](https://github.com/Simondu67/Bandwidth-for-minecraft-new-3ds/edit/main/steve.3dst) in sdmc/luma/title/your_region_id/romfs/resourcepacks/skins/skinpacks/Base
+Place the file "steve.3dst" in sdmc/luma/title/your_region_id/romfs/resourcepacks/skins/skinpacks/Base
 
 Id of Minecraft: New Nintendo 3DS edition:
 
